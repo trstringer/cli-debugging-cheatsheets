@@ -19,5 +19,5 @@ I'm only one developer that only works with a subset of languages. Don't see you
 
 1. Fork this repo
 2. Copy the template: `cp .template.md <programming_language>.md`
-3. Make your additions to `<programming_language>md`
+3. Make your additions to `<programming_language>.md`
 4. Create a pull request to be merged upstream
