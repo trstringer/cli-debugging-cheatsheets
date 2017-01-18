@@ -9,13 +9,13 @@
 
 ## But why a collection? Why a GitHub repository?
 
-- As a programmer of multiple languages :flushed: sometimes I need a glance at *<current_language>*'s cli debugging syntax
+- As a programmer of multiple languages :flushed: sometimes I need a glance at *current_language*'s cli debugging syntax
 - During urgent debugging times :fire: where you need to debug via cli a concise and to-the-point cheatsheet saves valuable time :alarm_clock:
 - A consistent experience for all languages/runtimes via a template :relieved: 
 
 ## Help make this better!
 
-I'm only one developer that only works with a subset of languages. Don't see your beloved *<programming_language>*? :open_mouth: Add it!
+I'm only one developer that only works with a subset of languages. Don't see your beloved *programming_language*? :open_mouth: Add it!
 
 1. Fork this repo
 2. Copy the template: `cp .template.md <programming_language>.md`
