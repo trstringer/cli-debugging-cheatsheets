@@ -39,7 +39,7 @@ The standard library module `pdb` currently does not support attaching and debug
 > :bulb: The following commands pertain to the debugger when a breakpoint is met or code is paused
 
 - List the current source: `l .`
-- Run an expression in the current context: `p <expr>`
+- Run an expression in the current context: `[p] <expr>`
 - Watch an expression: `display <expr>`
 - Stop watching an expression: `undisplay <expr>`
 - Display all watched expressions: `display`
