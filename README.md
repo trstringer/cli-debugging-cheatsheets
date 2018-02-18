@@ -2,6 +2,13 @@
 
 ***Collection of language and runtime command-line debugging common actions***
 
+## Index
+
+- [Bash](./bash.md)
+- [C](./c.md)
+- [Node.js](./node.md)
+- [Python](./python.md)
+
 ## Why is this important?
 1. :fire: You won't always have 3rd party tooling when debugging an issue
 2. :neckbeard: Learn the native builtin support for debugging
