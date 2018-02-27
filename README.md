@@ -7,6 +7,7 @@
 - [Bash](./bash.md)
 - [C](./c.md)
 - [Node.js](./node.md)
+- [Perl](./perl.md)
 - [Python](./python.md)
 
 ## Why is this important?
