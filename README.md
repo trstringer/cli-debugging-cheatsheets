@@ -13,7 +13,7 @@
 
 ## Why is this important?
 1. :fire: You won't always have 3rd party tooling when debugging an issue
-2. :neckbeard: Learn the native builtin support for debugging
+2. :star: Learn the native builtin support for debugging
 3. :muscle: Decouple yourself (developer) from an IDE
 
 ## But why a collection? Why a GitHub repository?
