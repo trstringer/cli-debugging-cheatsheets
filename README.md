@@ -6,6 +6,7 @@
 
 - [Bash](./bash.md)
 - [C](./c.md)
+- [Go](./go.md)
 - [Node.js](./node.md)
 - [Perl](./perl.md)
 - [Python](./python.md)
